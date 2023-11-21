@@ -1,0 +1,21 @@
+section{
+    /*display: flex;*/
+    flex-wrap: wrap;
+    padding: 1em 17em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+section figure{
+    margin: 10px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.ejemplo{
+    height: 170px;
+    width: 240px;
+}

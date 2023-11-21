@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 20em;
+    width: 100%;
+    padding: 0 17em;
+    background-color: #CCCCCC;
+}
+h1{
+    font-size: 5em;
+}
+h2{
+    font-size: 4em;
+}

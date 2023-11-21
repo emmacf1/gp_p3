@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 17em;
+    width: 100%;
+    height: 6em;
+    text-transform: uppercase;
+}
+nav a{
+    font-size: 1.75em;
+    margin: 0 5.75em 0 0;
+    text-decoration: none;
+}
